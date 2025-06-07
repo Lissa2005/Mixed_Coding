@@ -1,0 +1,17 @@
+<!--document declaration tag-->
+<!DOCTYPE html>
+
+<!--Heading tag-->
+<h1>This is heading 1</h1>
+<h2>This is Heading 2</h2>
+<h3>This is heading 3</h3>
+
+<!--pragraph tag-->
+<p>This is a pragraph.</p>
+<p>This is a another paragraph</p>
+
+<!--link tag-->
+<a href ="https://www.w3schools.com">w3 school link</a>
+
+<!--img tag-->
+<img src="w3school.jpg" alt="W3School.com" width="104" height="142">
