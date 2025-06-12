@@ -1,2 +1,4 @@
-# NovaCoding
-Learning to Code
+# Mixed_Coding
+Learning to Code :
+Python
+HTML
